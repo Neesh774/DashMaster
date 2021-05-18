@@ -1,0 +1,2 @@
+# DashMaster
+DashMaster is a game I'm making in the language Haxe, using HaxeFlixel.  It's a simple platformer game where the character must dash using ``space`` towards the other platform before being caught in the lava!
